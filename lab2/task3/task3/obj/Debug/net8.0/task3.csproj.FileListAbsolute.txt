@@ -1,0 +1,14 @@
+C:\File\EHU\DP\lab2\task1\task1\bin\Debug\net8.0\task3.exe
+C:\File\EHU\DP\lab2\task1\task1\bin\Debug\net8.0\task3.deps.json
+C:\File\EHU\DP\lab2\task1\task1\bin\Debug\net8.0\task3.runtimeconfig.json
+C:\File\EHU\DP\lab2\task1\task1\bin\Debug\net8.0\task3.dll
+C:\File\EHU\DP\lab2\task1\task1\bin\Debug\net8.0\task3.pdb
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.AssemblyInfo.cs
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.dll
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\refint\task3.dll
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.pdb
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\task3.genruntimeconfig.cache
+C:\File\EHU\DP\lab2\task1\task1\obj\Debug\net8.0\ref\task3.dll
