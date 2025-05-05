@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\File\\EHU\\DP\\lab1\\lab1\\lab1\\lab1.csproj": {}
+    "C:\\File\\EHU\\DP_Git\\lab1\\lab1\\lab1.csproj": {}
   },
   "projects": {
-    "C:\\File\\EHU\\DP\\lab1\\lab1\\lab1\\lab1.csproj": {
+    "C:\\File\\EHU\\DP_Git\\lab1\\lab1\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\File\\EHU\\DP\\lab1\\lab1\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\File\\EHU\\DP_Git\\lab1\\lab1\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "C:\\File\\EHU\\DP\\lab1\\lab1\\lab1\\lab1.csproj",
+        "projectPath": "C:\\File\\EHU\\DP_Git\\lab1\\lab1\\lab1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\File\\EHU\\DP\\lab1\\lab1\\lab1\\obj\\",
+        "outputPath": "C:\\File\\EHU\\DP_Git\\lab1\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Visual Studio\\Shared\\NuGetPackages"

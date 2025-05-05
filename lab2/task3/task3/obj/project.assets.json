@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\File\\EHU\\DP\\lab2\\task3\\task3\\task3.csproj",
+      "projectUniqueName": "C:\\File\\EHU\\DP_Git\\lab2\\task3\\task3\\task3.csproj",
       "projectName": "task3",
-      "projectPath": "C:\\File\\EHU\\DP\\lab2\\task3\\task3\\task3.csproj",
+      "projectPath": "C:\\File\\EHU\\DP_Git\\lab2\\task3\\task3\\task3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\File\\EHU\\DP\\lab2\\task3\\task3\\obj\\",
+      "outputPath": "C:\\File\\EHU\\DP_Git\\lab2\\task3\\task3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Visual Studio\\Shared\\NuGetPackages"
